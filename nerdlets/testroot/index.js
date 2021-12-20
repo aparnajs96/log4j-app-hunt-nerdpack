@@ -156,7 +156,6 @@ split: false };
 
 
   getNrql = (value) =>{
-   
     console.log("Enter the Query"+value+this.state.agentCursor)
     if(this.state.agentCursor=="empty"){
       console.log("Query Entered")
