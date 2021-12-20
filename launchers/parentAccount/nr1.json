@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "parentaccount",
+  "displayName": "Parentaccount",
+  "description": "Describe me",
+  "rootNerdletId": ".testroot"
+}
